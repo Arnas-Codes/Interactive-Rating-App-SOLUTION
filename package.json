@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
   "homepage": "https://Arnas-Codes.github.io/Interactive-Rating-App-SOLUTION",
   "scripts": {
     "dev": "vite",
